@@ -42,6 +42,7 @@
 #define QGLOBAL_H
 
 #ifdef __cplusplus
+#  include <limits>
 #  include <type_traits>
 #  include <cstddef>
 #  include <utility>
